@@ -1,0 +1,10 @@
+.container-flex{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    align-items: center;
+}
+
+#name{
+    font-size: 90px;
+}
