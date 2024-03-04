@@ -8,3 +8,19 @@
 #name{
     font-size: 90px;
 }
+
+@media (max-width: 720px){
+    .container-flex{
+        display: block;
+        justify-content: center;
+        align-items: center;
+        margin-left: 20%;
+    }
+    #vck{
+        margin-top:10%;
+    }
+    #dyp{
+        margin-top: 10%;
+    }
+        
+}
